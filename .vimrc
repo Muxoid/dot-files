@@ -30,6 +30,9 @@ Plug 'tpope/vim-surround'
 Plug 'scrooloose/syntastic'
 
 Plug 'airblade/vim-gitgutter'
+
+Plug 'udalov/kotlin-vim'
+
 call plug#end()
 
 colorscheme  anderson
