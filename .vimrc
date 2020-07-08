@@ -33,8 +33,11 @@ Plug 'airblade/vim-gitgutter'
 
 Plug 'udalov/kotlin-vim'
 
+Plug 'kristijanhusak/vim-hybrid-material'
+
 call plug#end()
 
-colorscheme  anderson
+set background=dark
+colorscheme hybrid_material
 
 set number
